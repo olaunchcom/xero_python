@@ -38,4 +38,5 @@ class ObjectGroup(Enum):
     RECEIPT = "Receipt"
     PURCHASEORDER = "PurchaseOrder"
     BATCHPAYMENT = "BatchPayment"
+    PAYBATCH = "PayBatch"
     UNKNOWN = "Unknown"
