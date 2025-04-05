@@ -37,4 +37,5 @@ class ObjectGroup(Enum):
     QUOTE = "Quote"
     RECEIPT = "Receipt"
     PURCHASEORDER = "PurchaseOrder"
+    BATCHPAYMENT = "BatchPayment"
     UNKNOWN = "Unknown"
