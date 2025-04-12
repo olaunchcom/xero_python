@@ -80,3 +80,4 @@ class ObjectType(Enum):
     TERMLIAB = "Termliab"
     NONCURRENT = "NonCurrent"
     SALESQUOTE = "SalesQuote"
+    BATCHPAY = "PayBatch"
