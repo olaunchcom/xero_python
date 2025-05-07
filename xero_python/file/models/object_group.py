@@ -39,4 +39,5 @@ class ObjectGroup(Enum):
     PURCHASEORDER = "PurchaseOrder"
     BATCHPAYMENT = "BatchPayment"
     PAYBATCH = "PayBatch"
+    FIXEDASSET = "FixedAsset"
     UNKNOWN = "Unknown"
